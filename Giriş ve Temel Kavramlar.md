@@ -1,4 +1,4 @@
-#Temel Kavramlar ve OpenCV'ye Giriş
+# Temel Kavramlar ve OpenCV'ye Giriş
 
 Bazı görüntü işleme kavramların ne olduğunu açıklamaya çalıştım. Bu tanımlar ansiklopedik olarak değil, görüntü işlemede neyi ifade ettiklerini anlatmaya çalıştım.
 
@@ -37,4 +37,4 @@ Renkli bir görüntünün histogramı, kırmızı, yeşil ve mavi bileşenler i�
 Histogramlar, görüntünün kontrastı, parlaklığı, renk dağılımı ve aydınlık durumu gibi özellikleri hakkında önemli bilgiler sağlar. Ayrıca, görüntü üzerinde gerçekleştirilecek işlemler için ön işleme adımlarında ve sınıflandırma gibi görevlerde de kullanışlıdır.
 
 
-![histogram açıklama](https://www.researchgate.net/publication/305421677/figure/fig2/AS:449003541274625@1484062194664/Images-and-their-histograms-before-and-after-application-of-proposed-algorithm-with.png)
+![histogram açıklama](https://miro.medium.com/v2/resize:fit:846/1*ZsB5N4w-WUs0CiCUBcweRw.png)
