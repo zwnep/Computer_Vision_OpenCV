@@ -75,7 +75,10 @@ RGB yerine farklı bir renk uzayı kullanılmışsa get metodu o renk uzayının
 
 
 Mat sınıfı OpenCV'nin en temel sınıflarından birisidir. Genel olarak imread() ile okuduğumuz resimleri tuttuğumuz sınıflardır. 1, 2 ve 3 boyutlu diziler olarak düşünülenilir.
-![Mat matris](/Users/zeynepdemirtas/Documents/GitHub/Computer_Vision_OpenCV/documentation/matris.png)
+![Mat matris](https://akademiksunum.com/dynamicContents/eccfae1504de4329ab1b1d7b28c11ff70b6d13b6/images/5.jpg)
+
+
+![resimm matrisi](https://unalfaruk.com/wp-content/uploads/2017/02/m4y8o1.jpg)
 
 
 
