@@ -58,8 +58,8 @@ tanımlanmaktadır:
 ![yayma operatörü](https://miro.medium.com/v2/resize:fit:680/1*nzC4JId4M_rVBj3s4zO_1g.png)
 
 B': B'nin bire tümleyeni
-A: işlenecekimge 
-B: yapıelemanı
+A: işlenecek imge 
+B: yapı elemanı
 
 
 *Python:*
@@ -143,34 +143,31 @@ hedefMat = cv.threshold(kaynakMat,esikDegeri,maxDeger,cv.threshoidngTipi)
 ```
 
 
-THRESH_BINARY:
+**THRESH_BINARY:**
 
 Kaynak olarak alınan görüntü üzerindeki piksel, esikDegeri olarak verilen değerden büyükse maksDeger olarak verilen parametre değerine atanır.
 
  
-THRESH_BINARY_INV:
+**THRESH_BINARY_INV:**
 
 Kaynak olarak alınan görüntü üzerindeki piksel, esikDegeri olarak verilen değerden küçükse maksDeger olarak verilen parametre değerine atanır. THRESH_BINARY_INV, THRESH_BINARY‘nin karşıtı olarak kullanılabilir.
 
 
-THRESH_TRUNC:
+**THRESH_TRUNC:**
 
 Kaynak olarak alınan görüntü üzerindeki piksel,
 
 
-THRESH_TOZERO:
+**THRESH_TOZERO:**
 
 Kaynak olarak alınan görüntü üzerindeki piksel,sınır olarak verilen değerden büyük olması durumunda piksel değeri korunacak, küçük olması durumunda ise piksel siyah olarak atanacaktır.
 
  
-THRESH_TOZERO_INV:
+**THRESH_TOZERO_INV:**
 
 Kaynak olarak alınan görüntü üzerindeki piksel,sınır olarak verilen değerden küçük olması durumunda piksel değeri korunacak, büyük olması durumunda ise piksel siyah olarak atanacaktır.
 
 
-
-![thresholding](https://i0.wp.com/theailearner.com/wp-content/uploads/2019/07/thres_types.png?
-resize=625%2C491&ssl=1)
 
 
 ![th](https://media5.datahacker.rs/2019/09/thresholding.jpg)
