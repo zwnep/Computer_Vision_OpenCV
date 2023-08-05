@@ -11,8 +11,7 @@ Bu sorunları aşmak için kaynak görüntüye öncelikle bir filtre uygulanır 
 işleme için en verimli hale getirilmesi sağlanır ve bu durum ön işleme olarak adlandırılır.
 
 
-![filters](https://www.researchgate.net/publication/37394153/figure/fig3/
-AS:669375770140693@1536603028535/Performance-of-Median-filter-in-the-presence-of-AWGN-a-Original-Test-Image-Lena-face.png)
+![filters](https://www.researchgate.net/publication/37394153/figure/fig3/AS:669375770140693@1536603028535/Performance-of-Median-filter-in-the-presence-of-AWGN-a-Original-Test-Image-Lena-face.png)
 
 **Blur**
 
