@@ -17,8 +17,8 @@ Faydalı olması dileğiyle, İyi çalışmalar!!
 
 | Bölüm |Özet|
 |----------|--------|
-| [Giriş ve Temel Kavramlar](documentation/Giriş ve Temel Kavramlar.md) |Görüntü işleme kavramları. Dosyadan, kameradan, IP kameradan görüntü okuma. Kamera parametrelerini değiştirme.|
-| [Görüntü Manipülasyonu ve Geometrik Dönüşümler](documentation/Görüntü Manüpülasyonu ve Geometrik Dönüşümler.md) |Piksel manüpülasyonu, geometrik çizimler ve geometrik dönüşümler.|
+| [Giriş ve Temel Kavramlar](documentation/Giriş-ve-Temel-Kavramlar.md) |Görüntü işleme kavramları. Dosyadan, kameradan, IP kameradan görüntü okuma. Kamera parametrelerini değiştirme.|
+| [Görüntü Manipülasyonu ve Geometrik Dönüşümler](documentation/Görüntü-Manüpülasyonu-ve-Geometrik-Dönüşümler.md) |Piksel manüpülasyonu, geometrik çizimler ve geometrik dönüşümler.|
 | [Renk Uzayları](documentation/renk-uzaylari.md) |Temel renk uzayları, renk uzayları arası dönüşüm. Histogram kavramı ve histogram eşitleme.|
 | [Morfolojik Görüntü işleme](documentation/morfolojik-goruntu-isleme.md) |Morfolojik operatörler ve eşikleme: Erosion, dilation, closing, gradyan, thresholding ...|
 | [Filtreler ve Kenar Belirleme](documentation/filtreler-ve-kenar-belirleme.md) |Filtreleme ve kenar belirleme algoritmaları: Blur, Sobel, Laplace, Canny ...|
