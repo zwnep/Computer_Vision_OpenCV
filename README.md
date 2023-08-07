@@ -4,7 +4,7 @@ Bilgisayarla görme, bilgisayarlara kameralardan ve videolardan dijital görünt
 
 OpenCV (Açık Kaynak Bilgisayar Görme Kitaplığı), esas olarak real-time bilgisayar görüşüne yönelik bir programlama işlevleri kütüphanesidir. Başlangıçta Intel tarafından geliştirildi, daha sonra Willow Garage ve ardından Itseez tarafından desteklendi. Kütüphane platformlar arasıdır ve açık kaynaklı BSD lisansı altında kullanım için ücretsizdir.
 
-Bu doküman, daha önce görüntü işleme ile uğraşmamış, bu konuda bilgisi olmayanlara ve tam aksine bu konuda bilgili, kendinisini farklı konularda geliştirmek isteyen herkese hitap edecek şekilde hazırlamaya çalıştım.
+Bu doküman, daha önce görüntü işleme ile uğraşmamış, bu konuda bilgisi olmayanlara ve tam aksine bu konuda bilgili, kendinisini farklı konularda geliştirmek isteyen herkese hitap edecek şekilde hazırlamaya çalıştım. Kendim de gelişme aşamasındayım. Eksiklerim ve kusurlarım olabilir, ama bilgi paylaştıkça çoğalır. Yardımlarınızı lütfen esirgemeyin.
 Faydalı olması dileğiyle, İyi çalışmalar!!
 
 ⭐️Talep veya öneriniz varsa iletişime geçmekten çekinmeyin. 
@@ -17,8 +17,8 @@ Faydalı olması dileğiyle, İyi çalışmalar!!
 
 | Bölüm |Özet|
 |----------|--------|
-| [Giriş ve Temel Kavramlar](/Users/zeynepdemirtas/Documents/GitHub/Computer_Vision_OpenCV/documentation/Giriş ve Temel Kavramlar.md) |Görüntü işleme kavramları. Dosyadan, kameradan, IP kameradan görüntü okuma. Kamera parametrelerini değiştirme.|
-| [Görüntü Manipülasyonu ve Geometrik Dönüşümler](/docs/8-goruntu-manipulasyonu.md) |Piksel manüpülasyonu, geometrik çizimler ve geometrik dönüşümler.|
-| [Renk Uzayları](/docs/9-renk-uzaylari.md) |Temel renk uzayları, renk uzayları arası dönüşüm. Histogram kavramı ve histogram eşitleme.|
-| [Morfolojik Görüntü işleme](/docs/10-morfolojik-goruntu-isleme.md) |Morfolojik operatörler ve eşikleme: Erosion, dilation, closing, gradyan, thresholding ...|
-| [Filtreler ve Kenar Belirleme](/docs/11-filtreler-ve-kenar-belirleme.md) |Filtreleme ve kenar belirleme algoritmaları: Blur, Sobel, Laplace, Canny ...|
+| [Giriş ve Temel Kavramlar](documentation/Giriş ve Temel Kavramlar.md) |Görüntü işleme kavramları. Dosyadan, kameradan, IP kameradan görüntü okuma. Kamera parametrelerini değiştirme.|
+| [Görüntü Manipülasyonu ve Geometrik Dönüşümler](documentation/Görüntü Manüpülasyonu ve Geometrik Dönüşümler.md) |Piksel manüpülasyonu, geometrik çizimler ve geometrik dönüşümler.|
+| [Renk Uzayları](documentation/renk-uzaylari.md) |Temel renk uzayları, renk uzayları arası dönüşüm. Histogram kavramı ve histogram eşitleme.|
+| [Morfolojik Görüntü işleme](documentation/morfolojik-goruntu-isleme.md) |Morfolojik operatörler ve eşikleme: Erosion, dilation, closing, gradyan, thresholding ...|
+| [Filtreler ve Kenar Belirleme](documentation/filtreler-ve-kenar-belirleme.md) |Filtreleme ve kenar belirleme algoritmaları: Blur, Sobel, Laplace, Canny ...|
